@@ -1,5 +1,5 @@
 {
-  "nextId": 11,
+  "nextId": 12,
   "accounts": [
     {
       "id": 1,
@@ -35,6 +35,11 @@
       "id": 10,
       "name": "Nome da Documentacao",
       "balance": 4020.98
+    },
+    {
+      "id": 11,
+      "name": "Guilherme Assis",
+      "balance": 100.34
     }
   ]
 }
